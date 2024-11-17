@@ -1,0 +1,9 @@
+# pycache
+**/__pycache__
+
+# enviroments
+**/venv
+.env
+
+# database
+some_games.db
